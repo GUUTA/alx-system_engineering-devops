@@ -25,4 +25,4 @@ then
 	all_domain_details "$1";
 else
 	single_domain_details "$1" "$2";
-fix
+
